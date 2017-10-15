@@ -1,0 +1,50 @@
+body{
+	margin-left: 15%;
+	width: 70%;
+
+
+}
+
+#entete{
+	background-color: #E8EFF7;
+	border-top: 5px solid #688CD8;
+	border-bottom: 5px solid #688CD8;
+	text-align: center;
+
+}
+#photo{
+	float: right;
+	width: 10%;
+	padding-top: 7px;
+	padding-right: 7px;
+}
+.article{
+	border-top: 5px solid #688CD8;
+	border-bottom: 5px solid #688CD8;
+	margin-top: 20PX;
+	margin-bottom: 20px;
+
+}
+h2{
+	color: #385CA8;
+	text-transform: uppercase;
+}
+.annee{
+	display: inline-block;
+	width: 120px;
+    float:left;
+}
+.article ul{
+	list-style-image: url(puce-titre.png);
+}
+.Langue{
+display: inline-block;
+width: 23%;
+padding-right: 77%;
+padding-bottom: 5px;
+border-bottom: 3px solid gray;
+
+}
+#bas_page{
+	text-align: center;
+}
