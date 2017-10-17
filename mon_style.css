@@ -1,50 +1,55 @@
 body{
-	margin-left: 15%;
-	width: 70%;
-
-
+	margin-left: 240px;
+	width:75%;
 }
-
-#entete{
-	background-color: #E8EFF7;
-	border-top: 5px solid #688CD8;
-	border-bottom: 5px solid #688CD8;
-	text-align: center;
-
-}
-#photo{
+#picture{
 	float: right;
-	width: 10%;
-	padding-top: 7px;
-	padding-right: 7px;
+	width: 13%;
+	height: 13%;
+	padding-right: 5%;
 }
-.article{
-	border-top: 5px solid #688CD8;
-	border-bottom: 5px solid #688CD8;
-	margin-top: 20PX;
-	margin-bottom: 20px;
-
+#entete{
+	text-align: left;
+	font-size: 18px;
+}
+#entete H1{
+	color: #5F04B4;
 }
 h2{
-	color: #385CA8;
-	text-transform: uppercase;
+	color: #AE51A1;
+	font-size: 35px;
+	text-align: center;
 }
-.annee{
-	display: inline-block;
-	width: 120px;
-    float:left;
+p{
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold;
 }
-.article ul{
-	list-style-image: url(puce-titre.png);
+.contenu h1{
+	border-bottom: 3px solid #08088A;
+	color: #08088A;
+	padding-top: 12px;
 }
-.Langue{
-display: inline-block;
-width: 23%;
-padding-right: 77%;
-padding-bottom: 5px;
-border-bottom: 3px solid gray;
+.liste{
+	color: blue;
+	font-size: 18px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.contenu ul{
+	list-style-image: url(puce.jpg);
+}
+#curriculum{
+position: absolute;
+left: 0px;
+top: 0px;
+height: 125%;
+width: 12%;
+margin-left: 60px;
+margin-top: 20px;
+
 
 }
-#bas_page{
-	text-align: center;
+#circle{
+	list-style-type: circle;
 }
