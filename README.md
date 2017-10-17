@@ -1,2 +1,0 @@
-# sanae
-curriculum vitae
